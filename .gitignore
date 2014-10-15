@@ -1,0 +1,6 @@
+*.pdf
+*.pyc
+*.pkl
+submit*
+*.txt
+.DS_Store
